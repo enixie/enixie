@@ -5,7 +5,7 @@ Olá! 👋 Me chamo Evelyn e sou uma entusiasta de tecnologia. Recentemente conc
 🌱 Aprendizado Contínuo <br>
 Além da minha formação acadêmica formal, continuo aprendendo através de cursos online e pesquisas autodidatas. Além da tecnologia, tenho interesses variados como mitologia, psicologia e filosofia, o que enriquece minha abordagem criativa no desenvolvimento de software.
 
-🚀 Prática em Desenvolvimento
+🚀 Prática em Desenvolvimento <br>
 Atualmente estou me dedicando à prática contínua como desenvolvedora, trabalhando em projetos pessoais para aprimorar minhas habilidades e explorar novos conceitos de forma prática e eficaz.
 
 
